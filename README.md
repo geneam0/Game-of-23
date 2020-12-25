@@ -1,8 +1,8 @@
-//======================================================================================================================
-// Gene Lam 
-// Professor: Michael Vulis 
-// CSC21000-E Assembly Language
-//======================================================================================================================
+//==================================================================================== <br />
+// Gene Lam <br />
+// Professor: Michael Vulis <br />
+// CSC21000-E Assembly Language <br />
+//==================================================================================== <br />
 
 This program is Game of 23 programmed in ASM. The code initializes the video memory and clears the screen at first. 
 Then it draws the grid lines and prints the numbers according to the board. At first, the game initializes to board 1.
